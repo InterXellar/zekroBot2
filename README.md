@@ -9,7 +9,10 @@
 
 If you want to reuse the code of this project, please read **[this](http://s.zekro.de/codepolicy)** before doing so!
 
-Have some questions or want to join my developer community discord? Take a look! :^)
+Have some questions or want to join my private Discord! Take a look! :^)
+<br/><a href="https://discordapp.com/invite/Gwwkfur"><img src="https://discordapp.com/api/guilds/307084334198816769/embed.png"/></a>
+
+Or if you want to join zekroTJAs Discord!
 <br/><a href="http://discord.zekro.de"><img src="https://discordapp.com/api/guilds/307084334198816769/embed.png"/></a>
 
 ----
