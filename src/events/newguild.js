@@ -17,7 +17,7 @@ function dbinsert(dbkey, chan, guild) {
 
 client.on('guildCreate', g => {
 
-    g.createChannel('zekroBot', 'category').then(c => {
+    g.createChannel('XellarsBot', 'category').then(c => {
         g.createChannel('commands').then(cmdchan => {
             cmdchan.setParent(c)
             Embeds.default(cmdchan,
@@ -29,8 +29,8 @@ client.on('guildCreate', g => {
                 `${Main.config.prefix}help` + '```\n\n' +
                 'To get some more information about this bot, just hit the command ```' +
                 `${Main.config.prefix}info` + '```' +
-                'More information about the bot, you can find in the [**Wiki Pages**](https://github.com/zekroTJA/zekroBot2/wiki).\n' +
-                'There is also a [**Getting Started**](https://github.com/zekroTJA/zekroBot2/wiki/Getting-Started) page, where you can get information how to set up this bot on yout guild.'
+                'More information about the bot, you can find in the [**Wiki Pages**](https://github.com/InterXellar/zekroBot2/wiki).\n' +
+                'There is also a [**Getting Started**](https://github.com/InterXellar/zekroBot2/wiki/Getting-Started) page, where you can get information how to set up this bot on your guild.'
             )
         })
         g.createChannel('cmdlog').then(cmdlogchan => {
